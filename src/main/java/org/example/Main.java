@@ -5,9 +5,8 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        System.out.println("feature/test100");
+        System.out.println("dev");
 
-        System.out.println("봉짬뽕");
 
     }
 }
