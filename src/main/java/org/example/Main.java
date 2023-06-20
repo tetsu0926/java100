@@ -5,10 +5,7 @@ public class Main {
 
         System.out.println("Hello world!");
 
-        System.out.println("feature");
-
-
-        System.out.println("100");
+        System.out.println("dev");
 
     }
 }
