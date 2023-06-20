@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("feature/test100");
 
+        System.out.println("봉짬뽕");
+
     }
 }
