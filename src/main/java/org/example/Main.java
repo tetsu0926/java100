@@ -7,8 +7,5 @@ public class Main {
 
         System.out.println("feature");
 
-
-        System.out.println("100");
-
     }
 }
