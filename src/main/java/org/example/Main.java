@@ -7,11 +7,5 @@ public class Main {
 
         System.out.println("dev");
 
-
-        System.out.println("1");
-
-
-        System.out.println("100");
-
     }
 }
